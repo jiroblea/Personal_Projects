@@ -1,0 +1,4 @@
+Fried Rice
+rice: 3 cups
+hotdog: 2
+egg: 1
