@@ -15,5 +15,8 @@ def saveRecipe(ingredients_num):
         with open("Recipes.txt", "a") as recipes:
             recipes.write(f"{ingredient}: {ingredient_amount}\n")
 
+def main():
+    print("Hello World!")
 
-askRecipes()
+if __name__ == "__main__":
+    main()
